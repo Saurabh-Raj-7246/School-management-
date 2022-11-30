@@ -1,1 +1,1 @@
-# School-management-
+# School-database-management-system
